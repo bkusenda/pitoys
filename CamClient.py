@@ -10,7 +10,7 @@ if len(sys.argv)<3:
     print "Usage: CamClient.py SERVER PORT [DEBUG]"
     print "   SERVER = server IP or hostname"
     print "   PORT = server port number"
-    print "   DEBUG = [True|False] (optional)"
+    print "   DEBUG = 1 (optional)"
     sys.exit()
 
 

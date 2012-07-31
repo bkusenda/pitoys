@@ -10,7 +10,7 @@ if len(sys.argv)<2:
     print "Arguments missing..."
     print "Usage: CamServer.py PORT [DEBUG]"
     print "   PORT = port number"
-    print "   DEBUG = [True|False] (optional)"
+    print "   DEBUG = 1 (optional)"
     sys.exit()
 
 
